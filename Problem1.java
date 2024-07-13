@@ -1,5 +1,3 @@
-//Brute force
-
 //Time = O(n)
 //Space = O(1)
 
